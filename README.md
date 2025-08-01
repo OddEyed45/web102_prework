@@ -23,13 +23,13 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='https://github.com/user-attachments/assets/398f8d8d-f744-4406-bfe1-c68c604d89ff' title='Video Walkthrough' width="500" alt='Video Walkthrough' /> 
+<img src='./walkthrough-gif/walkthrough-web102.gif' title='Video Walkthrough' width="500" alt='Video Walkthrough' /> 
 
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with: 
 Snipping Tool, 
-[Adobe Express](https://www.adobe.com/express/feature/video/convert/video-to-gif)
+[Canva](https://www.canva.com/)
 
 ## Notes
 
