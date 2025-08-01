@@ -1,8 +1,8 @@
 # WEB102 Prework - Sea Monster Crowdfunding: Crowdfunding for Games
 
-Submitted by: Sreeja
+Submitted by: Sreeja A
 
-_Sea Monster Crowdfunding: Crowdfunding for Games_ is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
+_Sea Monster Crowdfunding: Crowdfunding for Games_ is a website for the company Sea Monster Crowdfunding that displays information about the games they are being funded.
 
 Time spent: 5 hours spent in total
 
@@ -23,18 +23,16 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/user-attachments/assets/398f8d8d-f744-4406-bfe1-c68c604d89ff' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
-<!-- Recommended tools:
-[Kap](https://getkap.co/) for macOS
-[ScreenToGif](https://www.screentogif.com/) for Windows
-[peek](https://github.com/phw/peek) for Linux. -->
+[Snipping Tool]
+[Adobe Express](https://www.adobe.com/express/feature/video/convert/video-to-gif)
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+There were a few challenges that I have encountered while making this app: implementing the custom feature. The prework guide did not show how to attach links to different parts of the page. I accomplished the task using tutorials and helpful posts on Stack Overflow.
 
 ## License
 
